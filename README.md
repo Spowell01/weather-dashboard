@@ -6,7 +6,7 @@ This is a 5 day weather dashboard that allows you to enter a desired
 
 ## Installation
 here is a link to the deplyed site!
-https://spowell01.github.io/password-generator/ 
+https://spowell01.github.io/weather-dashboard/
 
 ## Usage
 this is a screenshot of the page.
